@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.2.3)  20 MAR 2022 16:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.2.3)  21 MAR 2022 15:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1023,10 +1023,7 @@ File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count311
 \l__pdf_internal_box=\box66
 )
-(./rpz.aux (./00-abstract.aux) (./10-defines.aux) (./11-abbrev.aux)
-(./12-intro.aux) (./20-analysis.aux) (./30-design.aux) (./40-impl.aux)
-(./50-research.aux) (./80-conclusion.aux) (./81-biblio.aux) (./90-appendix1.aux
-) (./91-appendix2.aux))
+(./rpz.aux (./12-intro.aux) (./50-main_part.aux) (./80-conclusion.aux))
 \openout1 = `rpz.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
@@ -1143,26 +1140,7 @@ e
 ))
 ABD: EveryShipout initializing macros
 \c@lstlisting=\count319
-\openout2 = `00-abstract.aux'.
-
- (./00-abstract.tex
-(/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-4.def
-File: uni-4.def 2013/05/13 UCS: Unicode data U+0400..U+04FF
-)
-(/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-32.def
-File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
-)) [1
-
-
-
-
-
-
-
-
-
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./rpz.toc<<ot1.cmap>><<om
-l.cmap>><<oms.cmap>><<omx.cmap>>
+ (./rpz.toc<<ot1.cmap>><<oml.cmap>><<oms.cmap>><<omx.cmap>>
 LaTeX Font Info:    Trying to load font information for U+msa on input line 2.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
@@ -1221,261 +1199,75 @@ LaTeX Font Warning: Font shape `PU/cmr/m/up' undefined
 \tf@toc=\write5
 \openout5 = `rpz.toc'.
 
- [2
+ [1
 
 
-]
+
+\FN@pp@footnotehinttrue 
+
+
+\FN@pp@footnotehinttrue 
+
+
+\FN@pp@footnotehinttrue 
+
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 \openout2 = `12-intro.aux'.
 
- (./12-intro.tex) [3
+ (./12-intro.tex
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-4.def
+File: uni-4.def 2013/05/13 UCS: Unicode data U+0400..U+04FF
+)) [2
 
 
 ]
-\openout2 = `20-analysis.aux'.
-
- (./20-analysis.tex
-<figures/pic01.png, id=119, 461.725pt x 405.515pt>
-File: figures/pic01.png Graphic file (type png)
-<use figures/pic01.png>
-Package pdftex.def Info: figures/pic01.png  used on input line 16.
-(pdftex.def)             Requested size: 455.24411pt x 399.82135pt.
+\openout2 = `50-main_part.aux'.
 
 
-LaTeX Warning: Citation `Pup09' on page 4 undefined on input line 21.
-
-LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 
-23.
-(/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2acmtt.fd
-File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
-) [4
-
-
-
- <./figures/pic01.png>] (/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-0
-.def
-File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
-) [5]
-Overfull \hbox (12.0pt too wide) in alignment at lines 100--105
-[] [] [] 
- []
-
-
-Overfull \hbox (12.0pt too wide) in alignment at lines 105--107
-[] [] [] 
- []
-
-
-Overfull \hbox (12.0pt too wide) in alignment at lines 107--109
-[] [] [] 
- []
-
-
-Overfull \hbox (12.0pt too wide) in alignment at lines 109--110
-[] [] [] 
- []
-
-
-Underfull \hbox (badness 4013) in paragraph at lines 120--122
-[]|\T2A/cmr/m/n/12 Длительное пре^^?бы^^?ва^^?ние
- []
-
-
-Underfull \hbox (badness 1895) in paragraph at lines 125--126
-[]|\T2A/cmr/m/n/12 (Doom в це^^?лом вре^^?ден
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 132--134
-[]|\T2A/cmr/m/n/12 Даже крат^^?ко^^?вре^^?мен^^?ное
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 132--134
-\T2A/cmr/m/n/12 пре^^?бы^^?ва^^?ние на шу^^?ме
- []
-
-
-Overfull \hbox (12.0pt too wide) in alignment at lines 110--139
-[] [] [] 
- []
-
-[6]) [7]
-\openout2 = `30-design.aux'.
-
- (./30-design.tex
-File: figures/pic01.png Graphic file (type png)
-<use figures/pic01.png>
-Package pdftex.def Info: figures/pic01.png  used on input line 51.
-(pdftex.def)             Requested size: 461.72388pt x 405.51399pt.
-
-Overfull \hbox (6.47977pt too wide) in paragraph at lines 51--52
- [][] 
- []
-
-) [8
-
-
-
-] [9]
-\openout2 = `40-impl.aux'.
-
- (./40-impl.tex
-Underfull \hbox (badness 2418) in paragraph at lines 4--6
-[]\T2A/cmr/m/n/14.4 В дан^^?ном раз^^?де^^?ле опи^^?са^^?но из^^?го^^?тов^^?ле^
-^?ние и тре^^?бо^^?ва^^?ние вся^^?
- []
-
-
-Underfull \hbox (badness 3849) in paragraph at lines 4--6
-\T2A/cmr/m/n/14.4 чи^^?ны. Кста^^?ти, в Latex нуж^^?но эс^^?кей^^?пить под^^?чј
-р^^?ки^^?ва^^?ние (пи^^?сать
- []
-
-(/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
-File: lstlang1.sty 2019/09/10 1.8c listings language file
-)
-Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
-nput line 17.
-
-(/usr/share/texlive/texmf-dist/tex/latex/cyrillic/koi8-r.def
-File: koi8-r.def 2014/10/28 v1.0d Input encoding file
-)
-LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <12> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 18.
-LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <8> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 18.
-LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <6> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 18.
-LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 18.
-LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <8> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 18.
-LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <6> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 18.
-
-(/usr/share/texlive/texmf-dist/tex/latex/cyrillic/koi8-r.def
-File: koi8-r.def 2014/10/28 v1.0d Input encoding file
-)
-LaTeX Font Info:    Font shape `T2A/cmtt/bx/n' in size <12> not available
-(Font)              Font shape `T2A/cmtt/m/n' tried instead on input line 31.
-
-(/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
-File: lstlang1.sty 2019/09/10 1.8c listings language file
-)
-(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
-File: lstmisc.sty 2019/09/10 1.8c (Carsten Heinz)
-)
-(/usr/share/texlive/texmf-dist/tex/latex/cyrillic/koi8-r.def
-File: koi8-r.def 2014/10/28 v1.0d Input encoding file
-)
-(./listings/test.c) [10
-
-
-
-]) [11]
-\openout2 = `50-research.aux'.
-
- (./50-research.tex
-File: figures/pic01.png Graphic file (type png)
-<use figures/pic01.png>
-Package pdftex.def Info: figures/pic01.png  used on input line 9.
-(pdftex.def)             Requested size: 455.24411pt x 399.82135pt.
-) [12
+(./50-main_part.tex) [3
 
 
 
 ]
 \openout2 = `80-conclusion.aux'.
 
- (./80-conclusion.tex)
-[13
+ (./80-conclusion.tex) [4
 
 
 
 ]
-\openout2 = `81-biblio.aux'.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 37.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 37.
+ (./rpz.aux (./12-intro.aux)
+(./50-main_part.aux) (./80-conclusion.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 37.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 37.
+Package rerunfilecheck Info: File `rpz.out' has not changed.
+(rerunfilecheck)             Checksum: E564D41B8CA728395B46BFA0C0014FFF;385.
 
- (./81-biblio.tex
-No file rpz.bbl.
-)
-\openout2 = `90-appendix1.aux'.
-
- (./90-appendix1.tex) [14
-
-
-
-
-
-]
-\openout2 = `91-appendix2.aux'.
-
- (./91-appendix2.tex) [15
-
-
-
-]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 54.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 54.
- (./rpz.aux
-(./00-abstract.aux) (./12-intro.aux) (./20-analysis.aux) (./30-design.aux)
-(./40-impl.aux) (./50-research.aux) (./80-conclusion.aux) (./81-biblio.aux)
-(./90-appendix1.aux) (./91-appendix2.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 54.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 54.
-
-
-Package rerunfilecheck Warning: File `rpz.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `rpz.out':
-(rerunfilecheck)             Before: 751B42C5DF56D89D88CE682A8BE16073;2627
-(rerunfilecheck)             After:  7A7C4B1609EDCD98D130FB17C7FBFBF6;2626.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 54.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 37.
  ) 
 Here is how much of TeX's memory you used:
- 27942 strings out of 481239
- 476828 string characters out of 5920378
- 907070 words of memory out of 5000000
- 42470 multiletter control sequences out of 15000+600000
- 547381 words of font info for 67 fonts, out of 8000000 for 9000
+ 26376 strings out of 481239
+ 459236 string characters out of 5920378
+ 682463 words of memory out of 5000000
+ 41098 multiletter control sequences out of 15000+600000
+ 537981 words of font info for 40 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 65i,9n,87p,1060b,1702s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{table.caption.7} has been referenced but does not
- exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{section*.11} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{section*.5} has been referenced but does not exist,
- replaced by a fixed one
-
-{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t2a.enc}</usr/share/texlive
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf
--dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/
-fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/t
-ype1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
-ublic/amsfonts/cm/cmsy8.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1
-000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/
-texmf/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf/fonts/type1/pu
-blic/cm-super/sfbx1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm10
-00.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/t
-exmf/fonts/type1/public/cm-super/sfrm1440.pfb></usr/share/texmf/fonts/type1/pub
-lic/cm-super/sftt1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt144
-0.pfb>
-Output written on rpz.pdf (15 pages, 263325 bytes).
+ 65i,5n,87p,1718b,571s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t2a.enc}</usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf/fonts/type1/
+public/cm-super/sfbx1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm
+1440.pfb>
+Output written on rpz.pdf (4 pages, 67047 bytes).
 PDF statistics:
- 304 PDF objects out of 1000 (max. 8388607)
- 247 compressed objects within 3 object streams
- 77 named destinations out of 1000 (max. 500000)
- 238 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 93 PDF objects out of 1000 (max. 8388607)
+ 61 compressed objects within 1 object stream
+ 9 named destinations out of 1000 (max. 500000)
+ 153 words of extra memory for PDF output out of 10000 (max. 10000000)
 
